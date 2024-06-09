@@ -10,20 +10,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3ec9b66-01ce-4ef5-9eed-5b3d25d91bbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Controllers/AssignClientToTripController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Controllers/ClientController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Controllers/TripController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/DTOs/AssignClientToTripDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/DTOs/ClientDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/DTOs/CountryDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/DTOs/GetTripDtos.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Interfaces/IAssignClientToTripRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Interfaces/IClientRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Interfaces/ITripRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Models/PaginatedList.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Repositories/AssignClientToTripRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Repositories/ClientRepository.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tuto_8/Repositories/TripRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/dataSources/9edc769e-6f67-467e-aeaa-41c76e2e97a7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/dataSources/9edc769e-6f67-467e-aeaa-41c76e2e97a7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tuto_8/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuto_8/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tuto_8/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,33 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Launch Settings Profile.Tuto_8: IIS Express.executor": "Run",
-    ".NET Launch Settings Profile.Tuto_8: https.executor": "Run",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "RiderIisExpressOptionsPageId",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Launch Settings Profile.Tuto_8: IIS Express.executor&quot;: &quot;Run&quot;,
+    &quot;.NET Launch Settings Profile.Tuto_8: https.executor&quot;: &quot;Run&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;RiderIisExpressOptionsPageId&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "ce940139-682d-4f06-a4b5-2d0ead97e265",
-      "sqlserver"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;ce940139-682d-4f06-a4b5-2d0ead97e265&quot;,
+      &quot;sqlserver&quot;
     ],
-    "rider.external.source.directories": [
-      "C:\\Users\\fetia\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache",
-      "C:\\Users\\fetia\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache",
-      "C:\\Users\\fetia\\AppData\\Local\\Symbols\\src"
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\fetia\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\fetia\\AppData\\Roaming\\JetBrains\\Rider2024.1\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\fetia\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.Tuto_8: https">
     <configuration name="Tuto_8: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Tuto_8/Tuto_8.csproj" />
@@ -152,7 +142,10 @@
       <workItem from="1717172159404" duration="262000" />
       <workItem from="1717172473303" duration="495000" />
       <workItem from="1717173064865" duration="1447000" />
-      <workItem from="1717191510050" duration="24047000" />
+      <workItem from="1717191510050" duration="25065000" />
+      <workItem from="1717324417866" duration="1226000" />
+      <workItem from="1717337457569" duration="57000" />
+      <workItem from="1717950752173" duration="1582000" />
     </task>
     <servers />
   </component>
